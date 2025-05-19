@@ -1,0 +1,15 @@
+# Ignore node_modules
+node_modules/
+# Ignore build output
+dist/
+build/
+# Ignore OS files
+.DS_Store
+Thumbs.db
+# Ignore logs
+*.log
+# Ignore environment files
+.env
+.env.*
+# Ignore drafts (optional, remove if you want to track drafts)
+# drafts/
