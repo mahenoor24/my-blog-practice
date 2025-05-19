@@ -1,1 +1,1 @@
-This folder contains the main content files for your project, such as articles, posts, or documentation.
+Updated This folder contains the main content files for your project, such as articles, posts, or documentation.
